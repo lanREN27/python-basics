@@ -1,0 +1,5 @@
+ stop_words = {
+        "the", "a", "an", "and", "or", "is", "are", "was", "were",
+        "in", "on", "at", "of", "to", "for", "with", "by", "be",
+        "this", "that", "it", "you", "i", "he", "she", "they", "we"
+    }

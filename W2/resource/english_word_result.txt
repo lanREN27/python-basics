@@ -1,0 +1,1 @@
+[('have', 4), ('when', 3), ('young', 3), ('people', 3), ('do', 3), ('nothing', 3), ('their', 3), ('more', 2), ('stability', 2), ('job，', 2)]

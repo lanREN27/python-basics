@@ -1,0 +1,17 @@
+# ===== Python 字节码缓存 =====
+__pycache__/
+*.py[cod]
+
+# ===== 虚拟环境（本仓库是纯练习代码，不需要环境）=====
+.venv/
+venv/
+
+# ===== 编辑器 / 系统文件 =====
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ===== 与练习无关的个人文档 =====
+W2/resource/研究生总规划_研一到研二实习.md
